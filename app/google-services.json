@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "926504930451",
+    "firebase_url": "https://poolmate-56838.firebaseio.com",
+    "project_id": "poolmate-56838",
+    "storage_bucket": "poolmate-56838.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926504930451:android:ebfc82ad73ead6a9d85166",
+        "android_client_info": {
+          "package_name": "com.vikasrana.poolmate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "926504930451-h5daff0n084qgi6k77kt0tlhqa5m1la7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vikasrana.poolmate",
+            "certificate_hash": "216c5e9bfd43cb793943a494dbf5879724c1d514"
+          }
+        },
+        {
+          "client_id": "926504930451-1vfbfmul2b84blmspiin0h7d2ucgteq7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhc1Mj0SAv9NV0jzqCPbOKdVhR4_xiGSw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "926504930451-1vfbfmul2b84blmspiin0h7d2ucgteq7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
